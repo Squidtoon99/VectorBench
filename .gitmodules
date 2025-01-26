@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Squidtoon99/VectorBench-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Squidtoon99/VectorBench-Frontend
